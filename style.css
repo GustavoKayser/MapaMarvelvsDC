@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 24pt;
+    font-weight: 100;
+}
+
+.image {
+    width: min(1000px, 100%);
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    font-size: 16pt;
+}
